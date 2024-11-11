@@ -1,0 +1,116 @@
+body {
+    padding:0;
+    margin:0;
+    background:black;
+ 
+    background-image: url(Newbackground.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+        
+    
+}
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.iphone {
+    position: absolute;
+    left: 1120px;
+    top: 570px;
+    width: 740px;
+    height:auto;
+    z-index: 21px;
+}
+
+.DSLR {
+    position: absolute;
+    left: 1130px;
+    top: 530px;
+    width: 900px;
+    height:auto;
+    z-index: 21px;
+}
+
+.Instant {
+    position: absolute;
+    left: 1100px;
+    top: 605px;
+    width: 805px;
+    height:auto;
+    z-index: 21px;
+}
+
+.SLR {
+    position: absolute;
+    left: 1120px;
+    top: 590px;
+    width: 950px;
+    height:auto;
+    z-index: 21px;
+}
+
+.Folding {
+    position: absolute;
+    left: 1108px;
+    top: 610px;
+    width: 890px;
+    height:auto;
+    z-index: 21px;
+}
+
+.Box {
+    position: absolute;
+    left: 1118px;
+    top: 605px;
+    width: 865px;
+    height:auto;
+    z-index: 21px;
+}
+
+.Triangle1 {
+    width: 85px;
+    height: auto;
+    top: 87px;
+    left: 372px;
+    z-index: 1001;
+}
+.Triangle2 {
+    width: 85px;
+    height: auto;
+    top: 260px;
+    left: 372px;
+    z-index: 1001;
+}
+.Triangle3 {
+    width: 85px;
+    height: auto;
+    top: 433px;
+    left: 372px;
+    z-index: 1001;
+}
+.Triangle4 {
+    width: 85px;
+    height: auto;
+    top: 599px;
+    left: 372px;
+    z-index: 1001;
+}
+.Triangle5 {
+    width: 85px;
+    height: auto;
+    top: 772px;
+    left: 372px;
+    z-index: 1001;
+}
+.Triangle6 {
+    width: 85px;
+    height: auto;
+    top: 945px;
+    left: 372px;  
+}
+
+
